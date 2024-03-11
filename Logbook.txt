@@ -1,2 +1,4 @@
 11-03
 Downloaded the whole dataset and balancing it 
+- Hyperparameters. Embedding, consider the average lenght of the sentence.
+
